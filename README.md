@@ -4,7 +4,8 @@ I`m Halyna Danylko a Junior Fullstack developer. I have fundamental knowledge  b
 
 📫 Reach me out!
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhalyna-danylko%2F)
+![Static Badge](https://img.shields.io/badge/facebook-%230866FF?logo=facebook&logoColor=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2Fgalkozavrik%2Fabout%3Flocale%3Duk_UA)
+
 
 
 
