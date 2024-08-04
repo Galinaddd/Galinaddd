@@ -6,8 +6,12 @@ I`m Halyna Danylko a Junior Fullstack developer. I have fundamental knowledge  b
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhalyna-danylko%2F)
 ](https://www.linkedin.com/in/halyna-danylko/)
-
 [![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:danilkogallina@gmail.com)
+
+
+#### Top Technologies
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
 
 
