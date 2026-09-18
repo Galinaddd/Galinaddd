@@ -12,5 +12,5 @@ Top Technologies
 
 ### My stats ⭐️
 
-![Halyna's GitHub stats](https://vercel.app)
+![Halyna's GitHub stats](https://herokuapp.com)
 ![Top langs](https://vercel.app)
