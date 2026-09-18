@@ -4,13 +4,17 @@ I'm Halyna Danylko a Junior Fullstack developer. I have fundamental knowledge bo
 
 📫 Reach me out!
 
-[LinkedIn](https://linkedin.com) [Gmail](mailto:danilkogallina@gmail.com)
+[LinkedIn](https://linkedin.com) | [Gmail](mailto:danilkogallina@gmail.com)
 
-Top Technologies
+#### Top Technologies
 
-![REACT](https://shields.io) ![NEXT.JS](https://shields.io) ![JAVASCRIPT](https://shields.io) ![TYPESCRIPT](https://shields.io) ![NODEJS](https://shields.io)
+* ⚛️ **REACT**
+* 🌐 **NEXT.JS**
+* 🟨 **JAVASCRIPT**
+* 🟦 **TYPESCRIPT**
+* 🟢 **NODEJS**
 
 ### My stats ⭐️
 
-![Halyna's GitHub stats](https://herokuapp.com)
-![Top langs](https://vercel.app)
+* 📊 [Halyna's GitHub stats](https://github.com) — *(Тимчасово відображається посиланням, оскільки сервер статистики розробника github-readme-stats зараз повністю перевантажений або вимкнений)*
+* 📈 [Top languages](https://github.com)
