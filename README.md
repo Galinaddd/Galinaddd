@@ -1,6 +1,6 @@
 ### Hi, I'm Halyna 👤
 
-I'm Halyna Danylko a Junior Fullstack developer. I have fundamental knowledge both in Front-end and Back-end technologies. I spend most of my time learneang new technologies and improving my coding skills.
+I'm Halyna Danylko a Junior Fullstack developer. I have fundamental knowledge both in Front-end and Back-end technologies. I spend most of my time learning new technologies and improving my coding skills.
 
 📫 Reach me out!
 
